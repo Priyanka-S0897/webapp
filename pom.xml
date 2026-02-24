@@ -5,7 +5,7 @@
   <artifactId>WebApp</artifactId>
   <packaging>war</packaging>
   <version>0.1</version>
-  <name>priyanka WebApp</name>
+  <name>Krithick WebApp</name>
   <url>http://maven.apache.org</url>
 
   <distributionManagement>
