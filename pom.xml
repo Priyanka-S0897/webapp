@@ -5,7 +5,7 @@
   <artifactId>WebApp</artifactId>
   <packaging>war</packaging>
   <version>0.1</version>
-  <name>aarvitex WebApp</name>
+  <name>priyanka WebApp</name>
   <url>http://maven.apache.org</url>
 
   <distributionManagement>
@@ -44,7 +44,7 @@
             <properties>
                 <!-- Optional URL to server. Default value is http://localhost:9000 -->
                 <sonar.host.url>
-                  http://3.90.226.93:9000
+                  http://44.223.25.193:9000
                 </sonar.host.url>
                 <java.version>17</java.version>
 
